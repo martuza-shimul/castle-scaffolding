@@ -265,9 +265,13 @@
 }
 
 .painter-service {
-  padding: 5vh 0;
+  padding: 2vh 0;
   position: relative;
   background: #d2dae2;
+}
+
+.painter-service .single-service {
+  padding: 2rem 0;
 }
 
 .painter-service .ps-image-holder {
@@ -278,7 +282,7 @@
 }
 
 .painter-service .ps-content-holder {
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem;
   color: #1e272e;
 }
 

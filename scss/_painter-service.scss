@@ -1,12 +1,25 @@
 .painter-service {
-	padding: 5vh 0;
+	padding: 2vh 0;
 	position: relative;
 	background: $background;
 
+	.single-service {
+		padding: 2rem 0;
+	}
 	.ps-image-holder {
 		// border: 2px solid $primary-color;
 		padding: 0.2rem;
 		background: $primary-color;
+		// clip-path: polygon(
+		// 	20% 0%,
+		// 	80% 0%,
+		// 	100% 20%,
+		// 	100% 80%,
+		// 	80% 100%,
+		// 	20% 100%,
+		// 	0% 80%,
+		// 	0% 20%
+		// );
 		clip-path: polygon(
 			0% 15%,
 			15% 15%,
@@ -58,7 +71,7 @@
 		// 	0% 70%,
 		// 	0% 30%
 		// );
-		padding: 2rem 1rem;
+		padding: 1.5rem 1rem;
 		// background: $primary-color;
 		color: $text-color;
 		// text-align: center;
