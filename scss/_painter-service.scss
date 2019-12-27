@@ -58,10 +58,10 @@
 		// 	0% 70%,
 		// 	0% 30%
 		// );
-		padding: 4.5rem 1rem;
+		padding: 2rem 1rem;
 		// background: $primary-color;
 		color: $text-color;
-		text-align: center;
+		// text-align: center;
 		h3 {
 			font-size: 1.6rem;
 			font-weight: 700;
@@ -70,8 +70,9 @@
 			color: $primary-color;
 			text-transform: uppercase;
 		}
-		p {
-			font-weight: 500;
+
+		ul {
+			margin-left: 2vw;
 		}
 
 		.button {

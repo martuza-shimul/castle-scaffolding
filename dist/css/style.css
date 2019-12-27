@@ -245,6 +245,11 @@
   font-size: 1.1rem;
 }
 
+.about .about-content ul {
+  margin-left: 3vw;
+  font-size: 1.1rem;
+}
+
 .rates .about-content {
   padding: 3% 0 0 0;
 }
@@ -273,9 +278,8 @@
 }
 
 .painter-service .ps-content-holder {
-  padding: 4.5rem 1rem;
+  padding: 2rem 1rem;
   color: #1e272e;
-  text-align: center;
 }
 
 .painter-service .ps-content-holder h3 {
@@ -287,8 +291,8 @@
   text-transform: uppercase;
 }
 
-.painter-service .ps-content-holder p {
-  font-weight: 500;
+.painter-service .ps-content-holder ul {
+  margin-left: 2vw;
 }
 
 .painter-service .ps-content-holder .button {
