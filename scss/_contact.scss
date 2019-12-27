@@ -1,9 +1,9 @@
 .contact {
-	background: $secondary-color;
+	background: $primary-color;
 	padding: 5vh 0;
 	.heading {
 		h1 {
-			color: $text-color;
+			color: $text-rev;
 		}
 	}
 	.contact-box {
@@ -13,7 +13,7 @@
 			font-size: 1.6rem;
 			font-weight: 600;
 			margin: 5px 0 30px 0;
-			color: $text-color;
+			color: $text-rev;
 			text-transform: uppercase;
 		}
 		p {
@@ -22,13 +22,13 @@
 			// }
 			span {
 				font-size: 1.1rem;
-				color: $text-color;
-				font-weight: 600;
+				color: $text-rev;
+				font-weight: 500;
 				margin-left: 5px;
 
 				a {
 					text-decoration: none;
-					color: $text-color;
+					color: $text-rev;
 				}
 			}
 		}

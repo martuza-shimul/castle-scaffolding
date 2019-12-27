@@ -188,9 +188,9 @@
   top: 0;
   width: 100%;
   height: 100%;
-  border-bottom: 100px solid #f53b57;
-  -webkit-clip-path: polygon(100% 93%, 0% 100%, 100% 100%);
-          clip-path: polygon(100% 93%, 0% 100%, 100% 100%);
+  border-bottom: 100px solid #3c40c6;
+  -webkit-clip-path: polygon(100% 90%, 0% 100%, 100% 100%);
+          clip-path: polygon(100% 90%, 0% 100%, 100% 100%);
 }
 
 .hero-shapes {
@@ -199,7 +199,7 @@
 }
 
 .hero-shapes .hs-content {
-  background: rgba(30, 39, 46, 0.5);
+  background: rgba(30, 39, 46, 0.6);
   padding: 5% 5% 10% 5%;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 81%, 50% 100%, 0 81%);
           clip-path: polygon(0 0, 100% 0, 100% 81%, 50% 100%, 0 81%);
@@ -216,7 +216,7 @@
 }
 
 .about {
-  background: #f53b57;
+  background: #3c40c6;
   color: #f2f2f2;
   overflow: hidden;
   padding: 30px 0 50px 0;
@@ -268,8 +268,8 @@
 .painter-service .ps-image-holder {
   padding: 0.2rem;
   background: #3c40c6;
-  -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
-          clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+  -webkit-clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
+          clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
 }
 
 .painter-service .ps-content-holder {
@@ -411,12 +411,12 @@
 }
 
 .contact {
-  background: #f53b57;
+  background: #3c40c6;
   padding: 5vh 0;
 }
 
 .contact .heading h1 {
-  color: #1e272e;
+  color: #f2f2f2;
 }
 
 .contact .contact-box {
@@ -427,20 +427,20 @@
   font-size: 1.6rem;
   font-weight: 600;
   margin: 5px 0 30px 0;
-  color: #1e272e;
+  color: #f2f2f2;
   text-transform: uppercase;
 }
 
 .contact .contact-box p span {
   font-size: 1.1rem;
-  color: #1e272e;
-  font-weight: 600;
+  color: #f2f2f2;
+  font-weight: 500;
   margin-left: 5px;
 }
 
 .contact .contact-box p span a {
   text-decoration: none;
-  color: #1e272e;
+  color: #f2f2f2;
 }
 
 .contact .contact-form {
