@@ -25,6 +25,7 @@
   -webkit-box-shadow: 3px 0px 8px 2px #808e9b;
           box-shadow: 3px 0px 8px 2px #808e9b;
   text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .button:hover {
@@ -179,7 +180,7 @@
 }
 
 .hero .hero-text .content .button {
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .hero::after {
