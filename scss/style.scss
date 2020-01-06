@@ -43,3 +43,10 @@ body {
 .light {
 	color: $text-rev;
 }
+
+.safety-logos {
+	margin: 5vh 0 2vh 0;
+	.sl-single {
+		margin: 2vh 0;
+	}
+}

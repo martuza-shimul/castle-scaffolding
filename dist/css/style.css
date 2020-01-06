@@ -775,4 +775,12 @@ body {
 .light {
   color: #f2f2f2;
 }
+
+.safety-logos {
+  margin: 5vh 0 2vh 0;
+}
+
+.safety-logos .sl-single {
+  margin: 2vh 0;
+}
 /*# sourceMappingURL=style.css.map */
